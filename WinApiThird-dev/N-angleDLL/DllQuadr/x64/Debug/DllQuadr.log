@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  DllQuadr.cpp
+D:\git\WinApiThird-dev\WinApiThird-dev\N-angleDLL\DllQuadr\DllQuadr.cpp(13,6): warning C4273: draw: несовместимое связывание dll
+D:\git\WinApiThird-dev\WinApiThird-dev\N-angleDLL\DllQuadr\DllQuadr.h(9,31): message : см. предыдущее определение "draw"
+  Создание кода...
+     Создается библиотека D:\git\WinApiThird-dev\WinApiThird-dev\N-angleDLL\x64\Debug\DllQuadr.lib и объект D:\git\WinApiThird-dev\WinApiThird-dev\N-angleDLL\x64\Debug\DllQuadr.exp
+  DllQuadr.vcxproj -> D:\git\WinApiThird-dev\WinApiThird-dev\N-angleDLL\x64\Debug\DllQuadr.dll

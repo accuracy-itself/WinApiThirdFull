@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  NangleDLL.cpp
+  Создание кода...
+     Создается библиотека D:\git\WinApiThird-dev\WinApiThird-dev\N-angleDLL\x64\Debug\N-angleDLL.lib и объект D:\git\WinApiThird-dev\WinApiThird-dev\N-angleDLL\x64\Debug\N-angleDLL.exp
+  N-angleDLL.vcxproj -> D:\git\WinApiThird-dev\WinApiThird-dev\N-angleDLL\x64\Debug\N-angleDLL.dll
